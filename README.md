@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devops\\SRE Engineer
 --------------------
 
-DevOps\\SRE Engineer with 5+ years of experience in automating and optimizing development workflows. Skilled in CI/CD pipelines, cloud infrastructure, containerization, and system monitoring. Passionate about improving efficiency and collaboration across development and operations teams.
+With nearly 9 years of experience spanning Integration, DevOps, SRE, and Systems Engineering, I have developed a deep understanding of the full software development lifecycle. Over the last 5 years, I have specialized in DevOps and Site Reliability Engineering (SRE), focusing on automating workflows, optimizing CI/CD pipelines, enhancing cloud infrastructure, and driving system reliability and performance
 
 *   🌍  I'm based in Hyderabad
 *   ✉️  You can contact me at [ashoksimhadri.k@gmail.com](mailto:ashoksimhadri.k@gmail.com)
